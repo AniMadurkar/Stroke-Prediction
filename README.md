@@ -1,6 +1,4 @@
 # Stroke Prediction MLOps
-This is a personal project that goes through a tabular stroke prediction dataset with a local MLOps setup. The purpose is to learn Tensorflow Extended (TFX), MLFlow, and DAGShub and show the importance of MLOps.
-
 ## Why MLOps?
 
 Industry Data Science has diverged into a few dominant verticals as the field has matured, but the primary specialty has been Enterprise Machine Learning (with Product-centric Data Science as a close second). The realm of Enterprise Machine Learning, so far, has looked quite similar to how Kaggle looks — hacky ML notebooks that get the job done for a short duration of time on a specific task (sometimes with a small team, but the scope of impact is relatively minor).
